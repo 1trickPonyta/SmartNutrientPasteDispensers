@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Smart Nutrient Paste Dispensers</name>
+	<author>1trickPonyta</author>
+	<packageId>smartnutrientpastedispensers.1trickPonyta</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>
+If you have different types of food in different food hoppers, it seems kinda random how the nutrient paste dispenser chooses which hopper to use to produce a meal, doesn't it? And shouldn't colonists have control over which hopper is used at any given time?
+
+This mod makes nutrient paste dispensers smart so that hoppers will be prioritized based on how soon their contained food expires so that less food is wasted.
+
+Should be compatible with mods that change the size, shape, etc. of nutrient paste dispensers but may not be compatible with modded dispensers. Try it and see.
+	</description>
+	<url>https://github.com/1trickPonyta/SmartNutrientPasteDispensers</url>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
